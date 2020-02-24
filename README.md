@@ -1,2 +1,2 @@
-# GlassBreaker
- A simulation of a cube breaking a glass pannel in OpenGL.
+# SPG-Framework
+Laboratory framework for SPG
